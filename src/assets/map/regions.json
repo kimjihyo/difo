@@ -1,6 +1,7 @@
 [
   {
     "name": "Alcarnus",
+    "name_ko": "",
     "zone": "Kehjistan",
     "latitude": -42.418744687517965,
     "longitude": -52.494832324077834,
@@ -29,6 +30,7 @@
   },
   {
     "name": "Altar of Ruin",
+    "name_ko": "",
     "zone": "Kehjistan",
     "latitude": -24.791201545924963,
     "longitude": -93.40654777072359,
@@ -53,6 +55,7 @@
   },
   {
     "name": "Amber Sands",
+    "name_ko": "",
     "zone": "Kehjistan",
     "latitude": -32.98735215182238,
     "longitude": -118.28101344889774,
@@ -130,6 +133,7 @@
   },
   {
     "name": "Blightmarsh",
+    "name_ko": "",
     "zone": "Hawezar",
     "latitude": -64.07147669550545,
     "longitude": 70.33168884886891,
@@ -173,6 +177,7 @@
   },
   {
     "name": "Caen Adar",
+    "name_ko": "",
     "zone": "Scosglen",
     "latitude": 73.29985140334892,
     "longitude": 57.618456701382,
@@ -195,6 +200,7 @@
   },
   {
     "name": "Caldeum",
+    "name_ko": "",
     "zone": "Kehjistan",
     "latitude": -50.01054704236586,
     "longitude": -76.44152738309685,
@@ -241,6 +247,7 @@
   },
   {
     "name": "Carrowcrest Ruins",
+    "name_ko": "",
     "zone": "Scosglen",
     "latitude": 72.3764313389494,
     "longitude": 14.406833746468237,
@@ -260,6 +267,7 @@
   },
   {
     "name": "Chambatar Ridge",
+    "name_ko": "",
     "zone": "Dry Steppes",
     "latitude": 30.33284795883705,
     "longitude": 3.3920634793457793,
@@ -312,6 +320,7 @@
   },
   {
     "name": "Crusaders' Monument",
+    "name_ko": "",
     "zone": "Hawezar",
     "latitude": -48.98198511595852,
     "longitude": 2.2386082531829743,
@@ -338,6 +347,7 @@
   },
   {
     "name": "Deep Forest",
+    "name_ko": "",
     "zone": "Scosglen",
     "latitude": 62.523011087015874,
     "longitude": -22.298189899920544,
@@ -401,6 +411,7 @@
   },
   {
     "name": "Desolate Highlands",
+    "name_ko": "",
     "zone": "Fractured Peaks",
     "latitude": -9.003007437400115,
     "longitude": 41.28721231587406,
@@ -455,6 +466,7 @@
   },
   {
     "name": "Dilapidated Aqueducts",
+    "name_ko": "",
     "zone": "Kehjistan",
     "latitude": -56.156764395821796,
     "longitude": -101.97575921103407,
@@ -477,6 +489,7 @@
   },
   {
     "name": "Dindai Flats",
+    "name_ko": "",
     "zone": "Dry Steppes",
     "latitude": 22.688101587445146,
     "longitude": -66.4317092903616,
@@ -520,6 +533,7 @@
   },
   {
     "name": "Dismal Foothills",
+    "name_ko": "",
     "zone": "Hawezar",
     "latitude": -42.457817733778846,
     "longitude": 38.48721315956482,
@@ -576,6 +590,7 @@
   },
   {
     "name": "Dobrev Taiga",
+    "name_ko": "",
     "zone": "Fractured Peaks",
     "latitude": -17.509986378244037,
     "longitude": 67.4764421959776,
@@ -615,6 +630,7 @@
   },
   {
     "name": "Eriman's Pyre",
+    "name_ko": "",
     "zone": "Hawezar",
     "latitude": -33.499242750684594,
     "longitude": 72.54069756269473,
@@ -638,6 +654,7 @@
   },
   {
     "name": "Fethis Wetlands",
+    "name_ko": "",
     "zone": "Hawezar",
     "latitude": -66.58080523967452,
     "longitude": 38.636681508553465,
@@ -695,6 +712,7 @@
   },
   {
     "name": "Fields of Desecration",
+    "name_ko": "",
     "zone": "Hawezar",
     "latitude": -73.24815269880301,
     "longitude": 11.408985674463565,
@@ -720,6 +738,7 @@
   },
   {
     "name": "Fields of Hatred",
+    "name_ko": "",
     "zone": "Dry Steppes",
     "latitude": -0.6262790723548903,
     "longitude": -83.37152823503857,
@@ -761,6 +780,7 @@
   },
   {
     "name": "Fields of Hatred",
+    "name_ko": "",
     "zone": "Kehjistan",
     "latitude": -66.84129979457404,
     "longitude": -63.85830615485247,
@@ -804,6 +824,7 @@
   },
   {
     "name": "Firebreak Manor",
+    "name_ko": "",
     "zone": "Scosglen",
     "latitude": 56.09161304290228,
     "longitude": 15.018746778523564,
@@ -821,6 +842,7 @@
   },
   {
     "name": "Forsaken Coast",
+    "name_ko": "",
     "zone": "Hawezar",
     "latitude": -72.60616661449521,
     "longitude": 96.50636650102115,
@@ -859,6 +881,7 @@
   },
   {
     "name": "Frigid Expanse",
+    "name_ko": "",
     "zone": "Fractured Peaks",
     "latitude": 22.358981138836853,
     "longitude": 79.33363426096093,
@@ -943,6 +966,7 @@
   },
   {
     "name": "Gale Valley",
+    "name_ko": "",
     "zone": "Fractured Peaks",
     "latitude": -27.65793506080101,
     "longitude": 101.08333037818284,
@@ -975,6 +999,7 @@
   },
   {
     "name": "Haunted Wreckage",
+    "name_ko": "",
     "zone": "Hawezar",
     "latitude": -78.68007540807888,
     "longitude": 87.77834163683337,
@@ -996,6 +1021,7 @@
   },
   {
     "name": "Highland Wilds",
+    "name_ko": "",
     "zone": "Scosglen",
     "latitude": 58.155262086477535,
     "longitude": 110.92661517193619,
@@ -1044,6 +1070,7 @@
   },
   {
     "name": "Hope's Light",
+    "name_ko": "희망의 빛",
     "zone": "Scosglen",
     "latitude": 82.91155788022039,
     "longitude": 4.776097138353634,
@@ -1066,6 +1093,7 @@
   },
   {
     "name": "Jakha Basin",
+    "name_ko": "",
     "zone": "Dry Steppes",
     "latitude": 9.246662041774613,
     "longitude": -13.866306736795195,
@@ -1107,6 +1135,7 @@
   },
   {
     "name": "Khargai Crags",
+    "name_ko": "",
     "zone": "Dry Steppes",
     "latitude": 34.841469518669996,
     "longitude": -24.668279264567445,
@@ -1174,6 +1203,7 @@
   },
   {
     "name": "Kor Dragan",
+    "name_ko": "",
     "zone": "Fractured Peaks",
     "latitude": 41.28193639989263,
     "longitude": 51.189452389555754,
@@ -1198,6 +1228,7 @@
   },
   {
     "name": "Kor Valar",
+    "name_ko": "",
     "zone": "Fractured Peaks",
     "latitude": 35.45837657042411,
     "longitude": 115.80708200811614,
@@ -1218,6 +1249,7 @@
   },
   {
     "name": "Kotama Grasslands",
+    "name_ko": "",
     "zone": "Dry Steppes",
     "latitude": 52.95898641715996,
     "longitude": -47.80920106669555,
@@ -1281,6 +1313,7 @@
   },
   {
     "name": "Malnok",
+    "name_ko": "",
     "zone": "Fractured Peaks",
     "latitude": 7.822184758682596,
     "longitude": 97.69577131633014,
@@ -1307,6 +1340,7 @@
   },
   {
     "name": "Moordaine Lodge",
+    "name_ko": "",
     "zone": "Scosglen",
     "latitude": 71.12883904073061,
     "longitude": 88.79515628458194,
@@ -1332,6 +1366,7 @@
   },
   {
     "name": "Norgoi Vigil",
+    "name_ko": "",
     "zone": "Dry Steppes",
     "latitude": 44.782223513324425,
     "longitude": -84.38554475289038,
@@ -1356,6 +1391,7 @@
   },
   {
     "name": "Northshore",
+    "name_ko": "",
     "zone": "Scosglen",
     "latitude": 77.5369463362083,
     "longitude": 3.3942115167724296,
@@ -1405,6 +1441,7 @@
   },
   {
     "name": "Nostrava",
+    "name_ko": "",
     "zone": "Fractured Peaks",
     "latitude": -1.8061612243003395,
     "longitude": 32.309551147257025,
@@ -1427,6 +1464,7 @@
   },
   {
     "name": "Omath's Redoubt",
+    "name_ko": "",
     "zone": "Kehjistan",
     "latitude": -70.01870760777416,
     "longitude": -85.9021038222022,
@@ -1449,6 +1487,7 @@
   },
   {
     "name": "Qara Yisu",
+    "name_ko": "",
     "zone": "Dry Steppes",
     "latitude": -19.171570520169155,
     "longitude": -6.432692339747064,
@@ -1476,6 +1515,7 @@
   },
   {
     "name": "Ragged Coastline",
+    "name_ko": "",
     "zone": "Kehjistan",
     "latitude": -52.56367212816247,
     "longitude": -114.12112554987289,
@@ -1527,6 +1567,7 @@
   },
   {
     "name": "Rotspill Delta",
+    "name_ko": "",
     "zone": "Hawezar",
     "latitude": -56.9465708013092,
     "longitude": 114.95259683652876,
@@ -1568,6 +1609,7 @@
   },
   {
     "name": "Ruins of Rakhat Keep",
+    "name_ko": "",
     "zone": "Hawezar",
     "latitude": -57.346822500392975,
     "longitude": 50.606407361776746,
@@ -1596,6 +1638,7 @@
   },
   {
     "name": "Saraan Caldera",
+    "name_ko": "",
     "zone": "Dry Steppes",
     "latitude": -5.394850262187305,
     "longitude": 7.598207722487587,
@@ -1617,6 +1660,7 @@
   },
   {
     "name": "Sarkova Pass",
+    "name_ko": "",
     "zone": "Fractured Peaks",
     "latitude": 26.4290737790638,
     "longitude": 51.06001134279268,
@@ -1680,6 +1724,7 @@
   },
   {
     "name": "Scouring Sands",
+    "name_ko": "",
     "zone": "Kehjistan",
     "latitude": -45.523633224144724,
     "longitude": -25.387532594916138,
@@ -1763,6 +1808,7 @@
   },
   {
     "name": "Seared Basin",
+    "name_ko": "",
     "zone": "Kehjistan",
     "latitude": -33.36656221409905,
     "longitude": -33.992433169889864,
@@ -1782,6 +1828,7 @@
   },
   {
     "name": "Seat of the Heavens",
+    "name_ko": "",
     "zone": "Fractured Peaks",
     "latitude": 17.27104500377638,
     "longitude": 125.59956267244388,
@@ -1830,6 +1877,7 @@
   },
   {
     "name": "Southern Expanse",
+    "name_ko": "",
     "zone": "Kehjistan",
     "latitude": -68.71558096397607,
     "longitude": -110.01512166735438,
@@ -1897,6 +1945,7 @@
   },
   {
     "name": "Strand",
+    "name_ko": "",
     "zone": "Scosglen",
     "latitude": 69.73818060317251,
     "longitude": 57.21164198312408,
@@ -1942,6 +1991,7 @@
   },
   {
     "name": "Temple of Rot",
+    "name_ko": "",
     "zone": "Dry Steppes",
     "latitude": -5.6744905168316535,
     "longitude": -59.976159987127176,
@@ -1968,6 +2018,7 @@
   },
   {
     "name": "The Accursed Wastes",
+    "name_ko": "",
     "zone": "Dry Steppes",
     "latitude": -12.155606629994978,
     "longitude": -3.3142222899437,
@@ -2029,6 +2080,7 @@
   },
   {
     "name": "The Crucible",
+    "name_ko": "",
     "zone": "Fractured Peaks",
     "latitude": 0.6794193984902108,
     "longitude": 132.29146869464557,
@@ -2055,6 +2107,7 @@
   },
   {
     "name": "The Downs",
+    "name_ko": "",
     "zone": "Scosglen",
     "latitude": 51.295560385011356,
     "longitude": 47.93174329447311,
@@ -2095,6 +2148,7 @@
   },
   {
     "name": "The Emerald Chase",
+    "name_ko": "",
     "zone": "Scosglen",
     "latitude": 66.63423612854675,
     "longitude": 24.61456430196222,
@@ -2134,6 +2188,7 @@
   },
   {
     "name": "The Onyx Watchtower",
+    "name_ko": "",
     "zone": "Dry Steppes",
     "latitude": 26.94078479375581,
     "longitude": -39.60590165800113,
@@ -2155,6 +2210,7 @@
   },
   {
     "name": "The Pallid Glade",
+    "name_ko": "",
     "zone": "Fractured Peaks",
     "latitude": 16.899716760279773,
     "longitude": 24.339680985249288,
@@ -2213,6 +2269,7 @@
   },
   {
     "name": "The Scarred Coast",
+    "name_ko": "",
     "zone": "Dry Steppes",
     "latitude": 18.894826505624522,
     "longitude": -96.05370727101672,
@@ -2255,6 +2312,7 @@
   },
   {
     "name": "The Shrouded Moors",
+    "name_ko": "",
     "zone": "Scosglen",
     "latitude": 66.7143547626329,
     "longitude": 102.64238818218928,
@@ -2305,6 +2363,7 @@
   },
   {
     "name": "The Writhing Mire",
+    "name_ko": "",
     "zone": "Hawezar",
     "latitude": -39.585158602195136,
     "longitude": 93.48463691458392,
@@ -2337,6 +2396,7 @@
   },
   {
     "name": "Toxic fens",
+    "name_ko": "",
     "zone": "Hawezar",
     "latitude": -76.48416911822736,
     "longitude": 54.50533398685593,
@@ -2389,6 +2449,7 @@
   },
   {
     "name": "Túr Dúlra",
+    "name_ko": "",
     "zone": "Scosglen",
     "latitude": 70.39361012260824,
     "longitude": -20.86780634861725,
@@ -2417,6 +2478,7 @@
   },
   {
     "name": "Tusmaa Rift",
+    "name_ko": "",
     "zone": "Dry Steppes",
     "latitude": 43.793666465118605,
     "longitude": -33.11314862493418,
@@ -2447,6 +2509,7 @@
   },
   {
     "name": "Umir Plateau",
+    "name_ko": "",
     "zone": "Hawezar",
     "latitude": -64.54059048665115,
     "longitude": 0.8192194640696471,
@@ -2494,6 +2557,7 @@
   },
   {
     "name": "Untamed Scarps",
+    "name_ko": "",
     "zone": "Dry Steppes",
     "latitude": -16.93622361437346,
     "longitude": -46.58902168152963,
@@ -2562,6 +2626,7 @@
   },
   {
     "name": "Vyeresz",
+    "name_ko": "",
     "zone": "Hawezar",
     "latitude": -72.04754378143862,
     "longitude": 52.835877556565265,
@@ -2589,6 +2654,7 @@
   },
   {
     "name": "Wailing Hills",
+    "name_ko": "",
     "zone": "Scosglen",
     "latitude": 75.20304232731087,
     "longitude": 40.43601876278444,
@@ -2635,6 +2701,7 @@
   },
   {
     "name": "Westering Lowlands",
+    "name_ko": "",
     "zone": "Scosglen",
     "latitude": 44.53944996198808,
     "longitude": 19.842523152719878,

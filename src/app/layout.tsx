@@ -3,7 +3,7 @@ import { ReactNode } from 'react';
 import localFont from 'next/font/local';
 
 import './globals.css';
-import 'mapbox-gl/dist/mapbox-gl.css';
+import 'maplibre-gl/dist/maplibre-gl.css';
 
 const globalFont = localFont({
   src: '../assets/fonts/Pretendard.woff2',
@@ -24,7 +24,12 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="ko" className={globalFont.variable}>
-      <body>{children}</body>
+      <body>
+        <div className="w-full h-full flex flex-col">
+          <div className="w-full h-16 bg-red-500" />
+          {children}
+        </div>
+      </body>
     </html>
   );
 }
